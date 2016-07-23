@@ -1,0 +1,62 @@
+html { 
+  background: url(http://cdn.quotesgram.com/img/99/21/983527208-g-hopper.jpg) no-repeat fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+	background-color: transparent;
+}
+
+.navbar {
+	background-color: transparent;
+	border: none;
+	font-size: 14pt;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+	margin-top: 40px;
+	color: #660016;
+}
+
+.pad {
+	margin-top: 120px;
+}
+
+#about p {
+	font-size: 28pt;
+	margin-top: 40px;
+}
+
+ul .list-group-item {
+	background-color: transparent; 
+	border: none;
+	font-size: 16pt;
+	margin-left: 280px;
+	margin-right: -100px;	
+}
+
+#timeline h1 {
+	margin-top: 150px;
+}
+
+.history {
+	width: 600px;
+	margin: 0 auto;
+	text-align: left;	
+}
+
+.history ul {
+	list-style-position: inside;	
+	font-size: 14pt;
+	color: black;
+}
+
+#information p {
+	font-size: 14pt;
+	text-align: center;
+}
